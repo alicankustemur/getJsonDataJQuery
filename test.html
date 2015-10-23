@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--developed by Resul Rıza DOLANER-->
+<!--www.resuldolaner.com-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Get Json Data</title>
+    <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
+</head>
+
+<body>
+    <div>
+    
+
+    <input type="text" class="input1">
+    <input type="text" class="input2">
+    <input type="text" class="input3">
+    <input type="text" class="input4">
+    <input type="text" class="input5">
+    <input type="text" class="input6">
+    <input type="text" class="input7">
+    <input type="text" class="input8">
+    <input type="text" class="input9">
+
+
+
+        <script>
+            $(document).ready(function () {
+                var url = 'data.json';
+                $.getJSON(url, function (data) {
+                    for (var i = 0; i < data.length; i++) {
+                        $(".input"+i)
+                                .attr("value",data[i].member
+                                                        .username);
+
+                    }
+                });
+
+            });
+
+
+        </script>
+    </div>
+</body>
+</html>

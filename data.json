@@ -1,0 +1,171 @@
+[
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser1",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	},
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser2",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+	,
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser3",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+	,
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser4",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+	,
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser5",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+	,
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser6",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+	,
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser7",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+	,
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser8",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+	,
+	{
+		"username" : "alicankustemur",
+		"password" : "parola123",
+		"role" : "guest",
+		"name" : "Ali Can",
+		"surname" : "Kustemur",
+		"age" : "22",
+		"member": {
+			
+			"username" : "memberuser9",
+			"password" : "parola123",
+			"role" : "guest",
+			"name" : "Ali Can",
+			"surname" : "Kustemur",
+			"age" : "22"
+		}
+		
+	}
+]
